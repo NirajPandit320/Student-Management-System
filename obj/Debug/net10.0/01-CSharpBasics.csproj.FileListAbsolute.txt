@@ -1,0 +1,14 @@
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/bin/Debug/net10.0/01-CSharpBasics
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/bin/Debug/net10.0/01-CSharpBasics.deps.json
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/bin/Debug/net10.0/01-CSharpBasics.runtimeconfig.json
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/bin/Debug/net10.0/01-CSharpBasics.dll
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/bin/Debug/net10.0/01-CSharpBasics.pdb
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.AssemblyInfoInputs.cache
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.AssemblyInfo.cs
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.dll
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/refint/01-CSharpBasics.dll
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.pdb
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.genruntimeconfig.cache
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/ref/01-CSharpBasics.dll
