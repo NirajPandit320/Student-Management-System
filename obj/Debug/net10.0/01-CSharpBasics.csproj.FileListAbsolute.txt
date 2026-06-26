@@ -12,3 +12,4 @@
 /Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.pdb
 /Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.genruntimeconfig.cache
 /Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/ref/01-CSharpBasics.dll
+/Users/Developer/DotNetLearning/01-CSharpBasics/01-CSharpBasics/obj/Debug/net10.0/01-CSharpBasics.sourcelink.json

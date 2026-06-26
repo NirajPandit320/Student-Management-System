@@ -1,1 +1,2 @@
-﻿Methods.Run();
+﻿// Methods.Run();
+EmployeeSalaryManagement.Run();
