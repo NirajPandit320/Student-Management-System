@@ -1,7 +1,7 @@
 public class Employee
 {
     public int id;
-    public string name;
+    public string name="";
     public double salary;
 
     public void Display()

@@ -8,4 +8,6 @@
 // EmployeeEnheritance2.Run();
 
 // Person.Run();
-EmployeePoly.Run();
+// EmployeePoly.Run();
+// Abstraction.Run();
+EmployeeList.Run();
